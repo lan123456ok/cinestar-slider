@@ -20,12 +20,7 @@ import {
 	FluxPreloader,
 	FluxControls,
 	VueFlux,
-	Blinds3D,
 	Blocks2,
-	Book,
-	Cube,
-	Warp,
-	Wave,
 } from 'vue-flux';
 
 
@@ -37,12 +32,7 @@ const rscs = shallowReactive([
 ]);
 
 const transitions = shallowReactive([
-	Blinds3D,
 	Blocks2,
-	Book,
-	Cube,
-	Warp,
-	Wave,
 ]);
 
 </script>
